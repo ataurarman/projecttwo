@@ -1,0 +1,94 @@
+*{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; size: 16px;
+
+}
+.temp {
+  
+}
+.clear{ overflow: hidden;}
+.nav{
+    background: chocolate;
+    height: 120px;
+    }
+
+.logo img { 
+    height: 50px;
+    width: auto;
+    position: absolute;;
+    color: cornsilk;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding: 5px;
+} 
+.manue { 
+    float: right;
+    margin-top: 33px;
+    margin-right: 5px;
+}
+.manue ul {
+    margin: auto;
+   
+}
+.manue ul li{
+    float: left;
+    position: relative;
+    display: block;
+    border: 2px solid lemonchiffon;
+    padding: 4px;
+    margin: 5px;
+    width: 89px;
+    text-align: center;
+ }
+ .manue ul li a {
+    text-decoration: none;
+    color: cornsilk;
+}
+.cont {
+
+}
+
+.me{
+    height: 400px;
+    background-color: darkgray;
+}
+.meb{
+
+}
+.mpic{
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+
+}
+.mpic img {
+    height: 300px;
+    width: 300px;
+    border-radius: 243px;
+    left: 0;
+    right: 0;
+    margin-top: 34px;
+    margin-bottom: 120px;
+    margin-left: 600px;
+      
+}
+.sklexp {
+    height: 500px;
+    
+}
+.skl {
+    float: left;
+    width: 50%;
+
+}
+.skl img{
+    height: 490px;
+    width: 716px;
+}
+.exp{
+    float: right;
+    width: 50%;
+}
+.exp img {
+    height: 490px;
+    width: 716px;
+}
